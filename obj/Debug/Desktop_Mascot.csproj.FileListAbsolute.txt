@@ -1,0 +1,11 @@
+C:\Users\naka2\workdir\Desktop_Mascot\bin\Debug\Desktop_Mascot.exe.config
+C:\Users\naka2\workdir\Desktop_Mascot\bin\Debug\Desktop_Mascot.exe
+C:\Users\naka2\workdir\Desktop_Mascot\bin\Debug\Desktop_Mascot.pdb
+C:\Users\naka2\workdir\Desktop_Mascot\obj\Debug\Desktop_Mascot.csproj.AssemblyReference.cache
+C:\Users\naka2\workdir\Desktop_Mascot\obj\Debug\Desktop_Mascot.Properties.Resources.resources
+C:\Users\naka2\workdir\Desktop_Mascot\obj\Debug\Desktop_Mascot.csproj.GenerateResource.cache
+C:\Users\naka2\workdir\Desktop_Mascot\obj\Debug\Desktop_Mascot.csproj.CoreCompileInputs.cache
+C:\Users\naka2\workdir\Desktop_Mascot\obj\Debug\Desktop_Mascot.csproj.CopyComplete
+C:\Users\naka2\workdir\Desktop_Mascot\obj\Debug\Desktop_Mascot.exe
+C:\Users\naka2\workdir\Desktop_Mascot\obj\Debug\Desktop_Mascot.pdb
+C:\Users\naka2\workdir\Desktop_Mascot\obj\Debug\DesktopMascot.Form1.resources
